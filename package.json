@@ -1,0 +1,25 @@
+{
+  "name": "externalShippingCalculator",
+  "version": "0.0.1",
+  "description": "Returns a set list of external shipping methods.",
+  "main": "/js/calculate-shipping-app.js",
+  "author": "Company name",
+  "translations" : [
+    {
+      "language" : "en_US",
+      "name":"Extension label in English",
+      "description":"Extension description in English"
+    },
+    {
+      "language" : "en_ES",
+      "name":"Extension label in Spanish",
+      "description":" Extension description in Spanish"
+    }
+  ],
+  "authenticatedUrls" : [
+
+  ],
+  "publicUrls" : [
+    "/ccstorex/custom/v1/calculateShipping"
+  ]
+}

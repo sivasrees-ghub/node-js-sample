@@ -1,0 +1,1 @@
+This app will return a set list of external shipping methods.
